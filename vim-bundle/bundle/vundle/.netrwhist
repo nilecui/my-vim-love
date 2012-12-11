@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/root/.vim/bundle'
+let g:netrw_dirhist_2='/root/.vim/bundle/pyflakes.vim'
+let g:netrw_dirhist_3='/usr/lib/python2.6/site-packages/soaplib-2.0.0_beta2-py2.6.egg/soaplib/core/test'
+let g:netrw_dirhist_4='/usr/lib/python2.6/site-packages/soaplib-2.0.0_beta2-py2.6.egg/soaplib/core/test/type'
+let g:netrw_dirhist_5='/mnt/hgfs/myshare/project/webservice/aa'
+let g:netrw_dirhist_6='/mnt/hgfs/myshare/git_project/webservice/pyws/tests'
+let g:netrw_dirhist_7='/root/.vim'
+let g:netrw_dirhist_8='/mnt/hgfs/myshare/set_gitpro/my-vim-love/vim/bundle/.vundle'
+let g:netrw_dirhist_9='/mnt/hgfs/myshare/set_gitpro/my-vim-love/vim/bundle/vim-flake8'
